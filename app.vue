@@ -18,7 +18,7 @@
 export default {
   data() {
     return {
-      title: "My Nuxt.js App",
+      title: "Hello From Nishant",
     };
   },
 };
