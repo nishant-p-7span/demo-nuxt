@@ -9,7 +9,7 @@
     </main>
 
     <footer>
-      <p>&copy; 2024 Your Company</p>
+      <p>&copy; 2024 7Span</p>
     </footer>
   </div>
 </template>
